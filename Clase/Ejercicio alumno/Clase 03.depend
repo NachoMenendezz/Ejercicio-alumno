@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1788433613 source:c:\users\alumno\desktop\clase\ejercicio alumno\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1788433609 source:c:\users\alumno\desktop\clase\ejercicio alumno\clsalumno.cpp
+	<iostream>
+	<cstring>
+	"clsAlumno.h"
+
+1788433606 c:\users\alumno\desktop\clase\ejercicio alumno\clsalumno.h
+	"clsFecha.h"
+	"clsDomicilio.h"
+
+1788433595 c:\users\alumno\desktop\clase\ejercicio alumno\clsfecha.h
+
+1788433601 c:\users\alumno\desktop\clase\ejercicio alumno\clsdomicilio.h
+
+1788433603 source:c:\users\alumno\desktop\clase\ejercicio alumno\clsdomicilio.cpp
+	<iostream>
+	"clsDomicilio.h"
+	"cargarCadena.h"
+
+1788433611 c:\users\alumno\desktop\clase\ejercicio alumno\cargarcadena.h
+
+1788433598 source:c:\users\alumno\desktop\clase\ejercicio alumno\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1788433621 source:c:\users\alumno\desktop\clase\ejercicio alumno\clsmateria.cpp
+	<iostream>
+	"materia.h"
+
+1788433588 c:\users\alumno\desktop\clase\ejercicio alumno\materia.h
+	"clsAlumno.h"
+
+1788445411 source:c:\users\alumno\desktop\clase\ejercicio alumno\main.cpp
+	<iostream>
+	<cstring>
+	"clsAlumno.h"
+	"menus.h"
+
+1788445968 c:\users\alumno\desktop\clase\ejercicio alumno\menus.h
+	"clsAlumno.h"
+	"materia.h"
+	"Inscripcion.h"
+	"clsDocente.h"
+	"clsPersona.h"
+
+1788434705 c:\users\alumno\desktop\clase\ejercicio alumno\inscripcion.h
+	"clsAlumno.h"
+
+1788435712 source:c:\users\alumno\desktop\clase\ejercicio alumno\menus.cpp
+	<iostream>
+	"menus.h"
+
+1788435712 source:c:\users\alumno\desktop\clase\ejercicio alumno\clsinscripcion.cpp
+	<iostream>
+	"Inscripcion.h"
+
+1788445504 source:c:\users\alumno\desktop\clase\ejercicio alumno\clspersona.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"clsPersona.h"
+
+1788445507 c:\users\alumno\desktop\clase\ejercicio alumno\clspersona.h
+	"clsFecha.h"
+	"clsDomicilio.h"
+
+1788445968 c:\users\alumno\desktop\clase\ejercicio alumno\clsdocente.h
+	"clsDomicilio.h"
+	"clsFecha.h"
+
