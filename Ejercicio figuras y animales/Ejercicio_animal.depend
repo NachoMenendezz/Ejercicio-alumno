@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1788989848 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clscuadrado.cpp
+	<iostream>
+	"cuadrado.h"
+	"figuras.h"
+
+1788989850 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\cuadrado.h
+	"figuras.h"
+	<iostream>
+
+1788992603 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\figuras.h
+	<iostream>
+
+1788992612 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clsfiguras.cpp
+	<iostream>
+	"figuras.h"
+
+1788989860 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clsrectangulo.cpp
+	<iostream>
+	"rectangulo.h"
+	"figuras.h"
+
+1788989863 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\rectangulo.h
+	<iostream>
+	"figuras.h"
+
+1788989866 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\main.cpp
+	<iostream>
+	"menus.h"
+
+1788993805 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\menus.h
+
+1788993805 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\menus.cpp
+	<iostream>
+	"menus.h"
+	"cuadrado.h"
+	"rectangulo.h"
+	"circulo.h"
+	"perro.h"
+	"gato.h"
+	"pajaro.h"
+
+1788990318 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clscirculo.cpp
+	<iostream>
+	"circulo.h"
+
+1788990145 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\circulo.h
+	"figuras.h"
+
+1788993047 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\animal.cpp
+	<iostream>
+	"animal.h"
+
+1788993413 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\animal.h
+	<iostream>
+
+1788993877 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clspajaro.cpp
+	<iostream>
+	"pajaro.h"
+
+1788993413 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\pajaro.h
+	"animal.h"
+
+1788993923 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clsperro.cpp
+	<iostream>
+	"perro.h"
+
+1788993413 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\perro.h
+	"animal.h"
+
+1788993413 c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\gato.h
+	"animal.h"
+
+1788993877 source:c:\users\alejandra\desktop\programacion 2\ejercicio figuras y animales\clsgato.cpp
+	<iostream>
+	"gato.h"
+
