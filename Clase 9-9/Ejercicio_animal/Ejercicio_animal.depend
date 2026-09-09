@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1788957880 source:c:\users\alumno\desktop\clase 9-9\ejercicio_animal\clscirculo.cpp
+	<iostream>
+	"circulo.h"
+
+1788964049 source:c:\users\alumno\desktop\clase 9-9\ejercicio_animal\clscuadrado.cpp
+	<iostream>
+	"cuadrado.h"
+	"figuras.h"
+
+1788964296 source:c:\users\alumno\desktop\clase 9-9\ejercicio_animal\clsrectangulo.cpp
+	<iostream>
+	"rectangulo.h"
+	"figuras.h"
+
+1788964120 source:c:\users\alumno\desktop\clase 9-9\ejercicio_animal\menus.cpp
+	<iostream>
+	"menus.h"
+	"cuadrado.h"
+	"rectangulo.h"
+
+1788963758 c:\users\alumno\desktop\clase 9-9\ejercicio_animal\menus.h
+
+1788956752 source:c:\users\alumno\desktop\clase 9-9\ejercicio_animal\main.cpp
+	<iostream>
+	"menus.h"
+
+1788956819 source:c:\users\alumno\desktop\clase 9-9\ejercicio_animal\clsfiguras.cpp
+	<iostream>
+	"figuras.h"
+
+1788957880 c:\users\alumno\desktop\clase 9-9\ejercicio_animal\figuras.h
+	<iostream>
+
+1788964296 c:\users\alumno\desktop\clase 9-9\ejercicio_animal\rectangulo.h
+	<iostream>
+	"figuras.h"
+
+1788964025 c:\users\alumno\desktop\clase 9-9\ejercicio_animal\cuadrado.h
+	"figuras.h"
+	<iostream>
+
+1788957899 c:\users\alumno\desktop\clase 9-9\ejercicio_animal\circulo.h
+	"figuras.h"
+
