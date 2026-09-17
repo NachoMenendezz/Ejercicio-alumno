@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1789595713 source:c:\users\alejandra\desktop\programacion 2\ejercicio alumnos archivos\clsalumno.cpp
-	<iostream>
-	<cstring>
-	"clsAlumno.h"
-
-1789595716 c:\users\alejandra\desktop\programacion 2\ejercicio alumnos archivos\clsalumno.h
-
